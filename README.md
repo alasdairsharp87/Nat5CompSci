@@ -4,11 +4,11 @@ Teaching materials for SQA National 5 Computing Science 2017/18
 ## Unit 1: Software Design and Development
 
 	1. Development Methodologies
-	1. Analysis
-	2. Design
-	3. Implementation (Python 2.7 and Visual Basic 6)
-	4. Testing
-	5. Evaluation
+	2. Analysis
+	3. Design
+	4. Implementation (Python 2.7 and Visual Basic 6)
+	5. Testing
+	6. Evaluation
 	
 ## Unit 2: Computer Systems
 
